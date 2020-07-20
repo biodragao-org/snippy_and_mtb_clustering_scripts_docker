@@ -8,7 +8,7 @@ other attached packages:
 
 ```
 
-
+- setup commands
 ```
 
  2000  conda create --name clustering_scripts_r 
@@ -20,7 +20,9 @@ other attached packages:
  2006  chmod +x HammingFasta.R 
  ```
 
-``
+- session info
+
+```
 > sessionInfo()
 R version 3.4.1 (2017-06-30)
 Platform: x86_64-redhat-linux-gnu (64-bit)
@@ -42,6 +44,5 @@ attached base packages:
 
 loaded via a namespace (and not attached):
 [1] compiler_3.4.1
-
 
 ```
